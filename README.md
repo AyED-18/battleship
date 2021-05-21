@@ -4,7 +4,7 @@ Battleship is a simulator of the board game "Battleship". It's not the actual fu
 
 ### Demo
 
-![](data/data.png)
+![](data/demo.png)
 
 ### Note
 
